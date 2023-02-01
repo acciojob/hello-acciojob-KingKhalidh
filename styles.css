@@ -1,10 +1,14 @@
 
 /* Your CSS Code here. */
-.class{
-	width=150px
-	height=150px
-	background=black
-	textcolour=white
-	margin left=32px
-	padding=10px
+.Accio{
+	width=150px;
+	height=150px;
+	background=black;
 }
+.hello-accio-job{
+	margin left=32px;
+	padding=10px;
+	text=white;
+	
+}
+
